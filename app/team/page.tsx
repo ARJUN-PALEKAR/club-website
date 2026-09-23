@@ -98,7 +98,7 @@ const teamMembers = [
   {
     id: 12,
     name: "Arjun Palekar",
-    role: "Web Dev Member",
+    role: "Web Developer Member",
     image: "/team/team9.jpeg",
     bio: "Data Analyst | Web Developer",
     socials: { github: "https://github.com/ARJUN-PALEKAR", linkedin: "https://www.linkedin.com/in/arjunpalekar/", twitter: "https://x.com/PalekarArjun" },
